@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cheat Table created by BinaryRiper -->
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Cash"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"speed.exe"+00511FA8</Address>
+      <Offsets>
+        <Offset>68</Offset>
+        <Offset>24</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"SpeedBreaker"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>speed.exe+52D888</Address>
+      <Offsets>
+        <Offset>38</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"N20"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"speed.exe"+005B37D8</Address>
+      <Offsets>
+        <Offset>4B8</Offset>
+        <Offset>34</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Total Laps (AI Racers will stop at certain lap, need a fix)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"speed.exe"+0051E004</Address>
+      <Offsets>
+        <Offset>40</Offset>
+        <Offset>0</Offset>
+        <Offset>4</Offset>
+        <Offset>8</Offset>
+        <Offset>10</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

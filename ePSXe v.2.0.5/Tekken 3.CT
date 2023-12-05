@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cheat Table created by BinaryRiper -->
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Life Bar"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>ePSXe.exe+B2B63C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Life Bar Enemy"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>ePSXe.exe+B2CEC8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Rounds"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>ePSXe.exe+B2B28C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Force Mode Score"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>ePSXe.exe+B38C28</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Force Mode HI-SCORE"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>ePSXe.exe+B38C3C</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

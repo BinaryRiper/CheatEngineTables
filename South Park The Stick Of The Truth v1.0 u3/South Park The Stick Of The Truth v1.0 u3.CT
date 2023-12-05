@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cheat Table created by BinaryRiper -->
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Life Bar"</Description>
+      <VariableType>Float</VariableType>
+      <Address>"South Park - The Stick of Truth.exe"+01B712F0</Address>
+      <Offsets>
+        <Offset>18</Offset>
+        <Offset>20C</Offset>
+        <Offset>240</Offset>
+        <Offset>4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Mana Bar"</Description>
+      <VariableType>Float</VariableType>
+      <Address>"South Park - The Stick of Truth.exe"+01B712F0</Address>
+      <Offsets>
+        <Offset>2C</Offset>
+        <Offset>14</Offset>
+        <Offset>6C</Offset>
+        <Offset>4</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

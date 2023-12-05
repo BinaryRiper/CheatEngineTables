@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cheat Table created by BinaryRiper -->
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Matraces Biliares"</Description>
+      <VariableType>Float</VariableType>
+      <Address>"mono.dll"+00264110</Address>
+      <Offsets>
+        <Offset>48</Offset>
+        <Offset>60</Offset>
+        <Offset>88</Offset>
+        <Offset>28</Offset>
+        <Offset>80</Offset>
+        <Offset>88</Offset>
+        <Offset>898</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Barra de Vida"</Description>
+      <VariableType>Float</VariableType>
+      <Address>"mono.dll"+00264110</Address>
+      <Offsets>
+        <Offset>48</Offset>
+        <Offset>38</Offset>
+        <Offset>A0</Offset>
+        <Offset>248</Offset>
+        <Offset>190</Offset>
+        <Offset>830</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Barra de Fervor"</Description>
+      <VariableType>Float</VariableType>
+      <Address>"mono.dll"+00264110</Address>
+      <Offsets>
+        <Offset>48</Offset>
+        <Offset>28</Offset>
+        <Offset>88</Offset>
+        <Offset>28</Offset>
+        <Offset>1B0</Offset>
+        <Offset>190</Offset>
+        <Offset>830</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Lagrimas de Enmienda"</Description>
+      <VariableType>Float</VariableType>
+      <Address>"mono.dll"+00264110</Address>
+      <Offsets>
+        <Offset>48</Offset>
+        <Offset>90</Offset>
+        <Offset>88</Offset>
+        <Offset>18</Offset>
+        <Offset>190</Offset>
+        <Offset>190</Offset>
+        <Offset>830</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
