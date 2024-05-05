@@ -17,18 +17,18 @@
     </CheatEntry>
     <CheatEntry>
       <ID>1</ID>
-      <Description>"PowerCards"</Description>
+      <Description>"Power Cards"</Description>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>Float</VariableType>
-      <Address>"UnityPlayer.dll"+013B4FE0</Address>
+      <Address>"UnityPlayer.dll"+01468F30</Address>
       <Offsets>
         <Offset>D8</Offset>
-        <Offset>60</Offset>
-        <Offset>118</Offset>
-        <Offset>E0</Offset>
-        <Offset>68</Offset>
-        <Offset>1F0</Offset>
-        <Offset>D50</Offset>
+        <Offset>178</Offset>
+        <Offset>B8</Offset>
+        <Offset>B0</Offset>
+        <Offset>150</Offset>
+        <Offset>B0</Offset>
+        <Offset>98</Offset>
       </Offsets>
     </CheatEntry>
     <CheatEntry>
@@ -183,4 +183,5 @@
       </Offsets>
     </CheatEntry>
   </CheatEntries>
+  <UserdefinedSymbols/>
 </CheatTable>
